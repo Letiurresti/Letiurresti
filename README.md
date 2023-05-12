@@ -2,7 +2,7 @@
 
 <h3 align="left"> 🌱 Soy Leticia, una apasionada de los Recursos Humanos que actualmente se encuentra en una emocionante transición al mundo del Big Data.</h3>
 
-📊 Durante un tiempo, he he tenido la oportunidad en Recursos Humanos en el área ligada a Negocio, donde he adquirido experiencia en el análisis de datos relacionados con la gestión de talentos, la retención de empleados y la identificación de las necesidades de formación y desarrollo. 
+📊 Durante un tiempo, he tenido la oportunidad de trabajar en Recursos Humanos en el área ligada a Negocio, donde he adquirido experiencia en el análisis de datos relacionados con la gestión y la retención de talentos y la identificación de las necesidades de formación y desarrollo. 
 
 💡 Mi pasión por los datos me ha llevado a dar el salto a la ciencia de datos, donde espero poder aplicar mis habilidades para ayudar a las empresas a tomar decisiones basadas en datos y mejorar su rendimiento.
 
